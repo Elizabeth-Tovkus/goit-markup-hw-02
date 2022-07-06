@@ -20,7 +20,7 @@ font-family: var(--main-font);
 color: var(--main-txt-cl);
 background-color: var(--light-txt-cl);
 font-size: 14px;
-letter-spacing: 00.03em;
+letter-spacing: 0.03em;
 }
 .visually-hidden {
     position: absolute;
